@@ -1,0 +1,196 @@
+{
+  "repositories": [
+    {
+      "repositoryId": "archiva.smartactors-features",
+      "type": "default",
+      "url": "http://archiva.smart-tools.info/repository/smartactors-features/"
+    },
+    {
+      "repositoryId": "archiva.common-features",
+      "type": "default",
+      "url": "http://archiva.smart-tools.info/repository/common-features/"
+    }
+  ],
+  "features": [
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "async-operations",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "async-operations-plugins",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "checkpoint",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "checkpoint-auto-startup",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "checkpoint-plugins",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "database",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "database-plugins",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "database-postgresql",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "database-postgresql-async-ops-collection",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "database-postgresql-cached-collection",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "database-postgresql-plugins",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "database-service-starter",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "dumpable-plugins",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "email",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "email-plugins",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "endpoint",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "endpoint-plugins",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "endpoint-service-starter",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "global-constants-service-starter",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "http-endpoint",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "http-endpoint-plugins",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "https-endpoint",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "https-endpoint-plugins",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "message-bus",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "message-bus-plugins",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "message-bus-service-starter",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "morph-expressions",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "scheduler",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "scheduler-auto-startup",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "scheduler-plugins",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "security",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "security-plugins",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "system-actors-pack",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "system-actors-pack-plugins",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "timer",
+      "version": "0.3.3"
+    },
+    {
+      "group": "info.smart_tools.smartactors",
+      "name": "timer-plugins",
+      "version": "0.3.3"
+    }
+  ]
+}

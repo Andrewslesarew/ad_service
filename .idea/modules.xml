@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DecisionTreeFeature/DecisionTreeFeature.iml" filepath="$PROJECT_DIR$/DecisionTreeFeature/DecisionTreeFeature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecisionTreeFeature/DecisionTreeFeatureDistribution/DecisionTreeFeatureDistribution.iml" filepath="$PROJECT_DIR$/DecisionTreeFeature/DecisionTreeFeatureDistribution/DecisionTreeFeatureDistribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KaladMakina.iml" filepath="$PROJECT_DIR$/KaladMakina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecisionTreeFeature/actors/DecisionTreeActor/account-feature.actor.payments-history.iml" filepath="$PROJECT_DIR$/DecisionTreeFeature/actors/DecisionTreeActor/account-feature.actor.payments-history.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecisionTreeFeature/plugins/DecisionTreeActorPlugin/commons-feature.plugin.validator.iml" filepath="$PROJECT_DIR$/DecisionTreeFeature/plugins/DecisionTreeActorPlugin/commons-feature.plugin.validator.iml" />
+    </modules>
+  </component>
+</project>
