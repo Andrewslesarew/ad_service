@@ -30,7 +30,9 @@
     </repositories>
 
     <modules>
+        <module>CsvFeature</module>
         <module>DecisionTreeFeature</module>
+        <module>ImportOffersFeature</module>
     </modules>
 
 

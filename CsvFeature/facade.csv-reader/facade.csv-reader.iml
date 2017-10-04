@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: net.sf.opencsv:opencsv:2.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:ioc:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:ioc-plugins:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:ioc-strategy-pack:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:ioc-strategy-pack-plugins:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:iobject:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:iobject-plugins:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:iobject-extension:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:iobject-extension-plugins:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:base:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:task:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:database:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:database-plugins:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:database-postgresql:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:database-postgresql-plugins:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:database-in-memory:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:database-in-memory-plugins:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:feature-loading-system:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:field:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:field-plugins:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:scheduler:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:helpers:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:message-bus:0.3.3" level="project" />
+    <orderEntry type="library" name="Maven: info.smart_tools.smartactors:scope:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:scope-plugins:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:security:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:security-plugins:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:message-processing:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:message-processing-plugins:0.3.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:utility-tools:0.3.3" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.0" level="project" />
+  </component>
+</module>

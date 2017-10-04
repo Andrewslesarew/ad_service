@@ -1,0 +1,28 @@
+{
+  "id": "guid",
+  "limit": 20,
+  "connection": {
+    "charset": "cp1251",
+    "path": "core/importing/dbf/dbf_three_records.dbf"
+  },
+  "rules": [
+    {
+      "id": "oneToOne",
+      "from": 0,
+      "to": "account",
+      "type": "java.lang.String"
+    },
+    {
+      "id": "oneToOne",
+      "from": 1,
+      "to": "name",
+      "type": "java.lang.String"
+    },
+    {
+      "id": "oneToOne",
+      "from": 2,
+      "to": "amount",
+      "type": "java.math.BigDecimal"
+    }
+  ]
+}

@@ -14,8 +14,12 @@
     <packaging>pom</packaging>
 
     <modules>
+        <!--utils-->
+        <module>utils/Tree</module>
+
         <!--actors-->
         <module>actors/DecisionTreeActor</module>
+        <module>actors/GetHeadersActor</module>
 
         <!--plugins-->
         <module>plugins/DecisionTreeActorPlugin</module>

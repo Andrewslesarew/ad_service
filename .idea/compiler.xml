@@ -8,13 +8,25 @@
         <outputRelativeToContentRoot value="true" />
         <module name="account-feature.actor.payments-history" />
         <module name="commons-feature.plugin.validator" />
+        <module name="csv-feature.facade.csv-reader" />
+        <module name="csv-feature.facade.csv-writer" />
+        <module name="feature.decision-tree.actor.get-headers" />
+        <module name="feature.decision-tree.util.tree" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="account-feature.actor.payments-history" target="1.8" />
       <module name="commons-feature.plugin.validator" target="1.8" />
+      <module name="csv-feature.facade.csv-reader" target="1.8" />
+      <module name="csv-feature.facade.csv-writer" target="1.8" />
       <module name="DecisionTreeFeature" target="1.5" />
       <module name="DecisionTreeFeatureDistribution" target="1.8" />
+      <module name="feature.csv" target="1.5" />
+      <module name="feature.csv-distribution" target="1.8" />
+      <module name="feature.decision-tree.actor.get-headers" target="1.8" />
+      <module name="feature.decision-tree.util.tree" target="1.8" />
+      <module name="ImportOffersFeature" target="1.5" />
+      <module name="ImportOffersFeatureDistribution" target="1.8" />
       <module name="KaladMakina" target="1.5" />
     </bytecodeTargetLevel>
   </component>

@@ -4,9 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DecisionTreeFeature/DecisionTreeFeature.iml" filepath="$PROJECT_DIR$/DecisionTreeFeature/DecisionTreeFeature.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecisionTreeFeature/DecisionTreeFeatureDistribution/DecisionTreeFeatureDistribution.iml" filepath="$PROJECT_DIR$/DecisionTreeFeature/DecisionTreeFeatureDistribution/DecisionTreeFeatureDistribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImportOffersFeature/ImportOffersFeature.iml" filepath="$PROJECT_DIR$/ImportOffersFeature/ImportOffersFeature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImportOffersFeature/ImportOffersFeatureDistribution/ImportOffersFeatureDistribution.iml" filepath="$PROJECT_DIR$/ImportOffersFeature/ImportOffersFeatureDistribution/ImportOffersFeatureDistribution.iml" />
       <module fileurl="file://$PROJECT_DIR$/KaladMakina.iml" filepath="$PROJECT_DIR$/KaladMakina.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecisionTreeFeature/actors/DecisionTreeActor/account-feature.actor.payments-history.iml" filepath="$PROJECT_DIR$/DecisionTreeFeature/actors/DecisionTreeActor/account-feature.actor.payments-history.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecisionTreeFeature/plugins/DecisionTreeActorPlugin/commons-feature.plugin.validator.iml" filepath="$PROJECT_DIR$/DecisionTreeFeature/plugins/DecisionTreeActorPlugin/commons-feature.plugin.validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CsvFeature/facade.csv-reader/csv-feature.facade.csv-reader.iml" filepath="$PROJECT_DIR$/CsvFeature/facade.csv-reader/csv-feature.facade.csv-reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CsvFeature/facade.csv-writer/csv-feature.facade.csv-writer.iml" filepath="$PROJECT_DIR$/CsvFeature/facade.csv-writer/csv-feature.facade.csv-writer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CsvFeature/feature.csv.iml" filepath="$PROJECT_DIR$/CsvFeature/feature.csv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CsvFeature/CsvFeatureDistribution/feature.csv-distribution.iml" filepath="$PROJECT_DIR$/CsvFeature/CsvFeatureDistribution/feature.csv-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecisionTreeFeature/actors/GetHeadersActor/feature.decision-tree.actor.get-headers.iml" filepath="$PROJECT_DIR$/DecisionTreeFeature/actors/GetHeadersActor/feature.decision-tree.actor.get-headers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecisionTreeFeature/utils/Tree/feature.decision-tree.util.tree.iml" filepath="$PROJECT_DIR$/DecisionTreeFeature/utils/Tree/feature.decision-tree.util.tree.iml" />
     </modules>
   </component>
 </project>
