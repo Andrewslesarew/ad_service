@@ -11,4 +11,12 @@
         <relativePath>../../pom.xml</relativePath>
     </parent>
     <artifactId>feature.decision-tree.actor.decision-tree</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.kalad.makina</groupId>
+            <artifactId>feature.decision-tree.util.tree</artifactId>
+            <version>${feature.version}</version>
+        </dependency>
+    </dependencies>
 </project>

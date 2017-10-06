@@ -10,6 +10,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="account-feature.actor.payments-history" />
+    <orderEntry type="module" module-name="feature.decision-tree.util.tree" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:ioc:0.3.3" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:ioc-plugins:0.3.3" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: info.smart_tools.smartactors:ioc-strategy-pack:0.3.3" level="project" />
